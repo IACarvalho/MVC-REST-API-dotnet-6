@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ViA9jepahoZmX3HPpqR995upqLe0J1ZwrK114Vau0/9xXur07PuXRvuik6oK14IfwMny/mdtgUwWOI65MjDPHg==",
+  "success": true,
+  "projectFilePath": "/home/israel/Projects/provaAjax/Api/Api.csproj",
+  "expectedPackageFiles": [
+    "/home/israel/.nuget/packages/fluentvalidation/10.3.6/fluentvalidation.10.3.6.nupkg.sha512"
+  ],
+  "logs": []
+}
